@@ -42,4 +42,7 @@ Copy , Create own version , change stuff
 Permitted :
 Commercial Use
 
+<hr>
 
+TO DO for me :
+TimeBased Licence Creation (actually you must restart this every time to create a new Hash 
