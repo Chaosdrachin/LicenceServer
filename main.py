@@ -57,6 +57,7 @@ def Create_licencekey():
     result = Salty_Dragon(result)
     return str(result)
 
+# TODO FINISH THIS ! (at myself :3)
 def TimeBasdCreation():
     newKey = "NewOne"
 
