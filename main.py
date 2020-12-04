@@ -97,7 +97,7 @@ def serverStart():
 os.system("clear")
 print("""
 ####################################
-#      Aurora Licence-Server       #
+#         Licence-Server           #
 #         Module V-0.1.0           #
 #            by Wyv3rn             #
 ####################################
